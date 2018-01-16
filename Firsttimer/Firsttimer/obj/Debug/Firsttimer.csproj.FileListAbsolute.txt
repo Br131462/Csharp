@@ -1,0 +1,9 @@
+C:\Users\br131462\AppData\Local\Temporary Projects\Firsttimer\bin\Debug\Firsttimer.exe.config
+C:\Users\br131462\AppData\Local\Temporary Projects\Firsttimer\bin\Debug\Firsttimer.exe
+C:\Users\br131462\AppData\Local\Temporary Projects\Firsttimer\bin\Debug\Firsttimer.pdb
+C:\Users\br131462\AppData\Local\Temporary Projects\Firsttimer\obj\Debug\Firsttimer.csprojResolveAssemblyReference.cache
+C:\Users\br131462\AppData\Local\Temporary Projects\Firsttimer\obj\Debug\Firsttimer.exe
+C:\Users\br131462\AppData\Local\Temporary Projects\Firsttimer\obj\Debug\Firsttimer.pdb
+C:\Users\br131462\Desktop\Csharp\Firsttimer\Firsttimer\bin\Debug\Firsttimer.exe.config
+C:\Users\br131462\Desktop\Csharp\Firsttimer\Firsttimer\obj\Debug\Firsttimer.exe
+C:\Users\br131462\Desktop\Csharp\Firsttimer\Firsttimer\obj\Debug\Firsttimer.pdb
